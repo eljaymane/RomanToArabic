@@ -1,9 +1,9 @@
 namespace RomanToArabic.Models
 {
 
-    public class RomanNumber : IRomanNumber {
-        private char romanNumber{get;}
-        private int value {get;}
+    public class RomanNumber {
+        public char romanNumber{get;}
+        public int value {get;}
 
         
         public RomanNumber(char roman, int val) {

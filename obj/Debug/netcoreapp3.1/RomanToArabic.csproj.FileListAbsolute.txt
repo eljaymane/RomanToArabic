@@ -1,0 +1,10 @@
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.exe
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.deps.json
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.runtimeconfig.dev.json
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.dll
+C:\Users\ASUS\Source\Repos\RomanToArabic\bin\Debug\netcoreapp3.1\RomanToArabic.pdb
+C:\Users\ASUS\Source\Repos\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.dll
+C:\Users\ASUS\Source\Repos\RomanToArabic\obj\Debug\netcoreapp3.1\RomanToArabic.pdb
